@@ -24,6 +24,8 @@ RegisterNumber:23013614
 ```
 
 ## Output:
+![Screenshot 2023-12-19 190648](https://github.com/Sanjaichitra/Square-root-of-a-number/assets/144870518/2a526e55-0532-4eb9-9ed8-093085151070)
+
 
 
 
