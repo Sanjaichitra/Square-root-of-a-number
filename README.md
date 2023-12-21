@@ -18,7 +18,17 @@ To write a program to find the square root of a number.
  # Program to find the gcd of number using functions
  # Developed by:SANJAI S
  # Register Number:23013614
-
+~~~
+def sqrt():
+    n=int (input())
+    a=100
+    x=0.5*n
+    for i in range(a):
+        r=0.5*(x+n/x)
+        x=r
+    print("Square root of the number:",r)
+sqrt()
+~~~
 
 
 ## Output:
