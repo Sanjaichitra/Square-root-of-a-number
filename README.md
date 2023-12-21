@@ -13,10 +13,8 @@ Define a function.
 ## Step2:
 Assign number_iters = 100 in the function to perform 100 iteratios.
 ## Step3:
-Set i = 0.
-## Step3:
 Calculate  number = 0.5 * (number + a / number) for 100 iterations.
-## Step5:
+## Step4:
 Return number
 
 ## Program:
